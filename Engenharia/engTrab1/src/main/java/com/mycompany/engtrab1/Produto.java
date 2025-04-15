@@ -32,7 +32,7 @@ public class Produto {
     public void setValor(double valor) {
         this.valor = valor;
     }
-    
+
     public void editarProduto(String novoNome, double novoValor) {
         setNome(novoNome);
         setValor(novoValor);
