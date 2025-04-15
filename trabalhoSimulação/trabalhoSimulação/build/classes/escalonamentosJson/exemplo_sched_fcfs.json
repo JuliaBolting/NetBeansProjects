@@ -1,0 +1,35 @@
+{
+    "tempoSimulacao": 14,
+    "nomeEscalonador": "fcfs",
+    "tarefasqnt": 4,
+    "tarefas": [ 
+        {
+            "offset": 0,
+            "tempoComputacao": 5,
+            "tempoPeriodo": 14,
+            "quantum": 2,
+            "deadline": 14
+        },
+        {
+            "offset": 0,
+            "tempoComputacao": 2,
+            "tempoPeriodo": 14,
+            "quantum": 2,
+            "deadline": 14
+        },
+        {
+            "offset": 1,
+            "tempoComputacao": 4,
+            "tempoPeriodo": 14,
+            "quantum": 2,
+            "deadline": 14
+        },
+        {
+            "offset": 3,
+            "tempoComputacao": 3,
+            "tempoPeriodo": 14,
+            "quantum": 2,
+            "deadline": 14
+        }
+    ]
+}
